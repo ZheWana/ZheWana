@@ -24,6 +24,7 @@
 * 2023-01-24 - [Small Talk: #撰写 今天更新C语言学习手册的...](https://zhewana.cn/?note=524)
 ***
 📕Book新章节: 
+* 2023-08-01 - [GitCookbook: 分支与差异](https://doc.zhewana.cn)
 * 2023-07-31 - [GitCookbook: 前言、工作区、暂存区与版本库](https://doc.zhewana.cn)
 * 2023-07-28 - [GitCookbook: 前言](https://doc.zhewana.cn)
 * 2023-04-24 - [Tutorial_C: 数据类型](https://doc.zhewana.cn)
