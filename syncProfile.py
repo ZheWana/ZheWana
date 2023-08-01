@@ -29,4 +29,4 @@ repo = g.get_repo("ZheWana/BlogBook")
 for commit in repo.get_commits():
     if commit.commit.message != commit.commit.message.split("chap: ")[0]:
         with open("./README.md", "a") as f:
-            f.write("* " + str(commit.commit.author.date).split(" ")[0] + " - [" + commit.commit.message.split("chap: ")[1] + "](doc.zhewana.cn)\r\n")
+            f.write("* " + str(commit.commit.author.date).split(" ")[0] + " - [" + commit.commit.message.split("chap: ")[1] + "](https://doc.zhewana.cn)\r\n")
