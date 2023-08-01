@@ -25,9 +25,9 @@
 * 2023-01-24 - [SmallTalk](https://zhewana.cn/?note=524)
 ***
 📕Book新章节: 
-* 2023-08-01 07:52:06 - [GitCookbook: 前言、工作区、暂存区与版本库](doc.zhewana.cn)
-* 2023-08-01 07:51:38 - [GitCookbook: 前言](doc.zhewana.cn)
-* 2023-08-01 07:51:21 - [Tutorial_C: 数据类型](doc.zhewana.cn)
-* 2023-08-01 07:51:05 - [Tutorial_C: 概念术语](doc.zhewana.cn)
-* 2023-08-01 07:50:44 - [Tutorial_C: 快速上手](doc.zhewana.cn)
-* 2023-08-01 07:50:06 - [Tutorial_C: 前言、背景](doc.zhewana.cn)
+* 2023-07-31 06:24:17 - [GitCookbook: 前言、工作区、暂存区与版本库](doc.zhewana.cn)
+* 2023-07-28 03:53:13 - [GitCookbook: 前言](doc.zhewana.cn)
+* 2023-04-24 09:55:29 - [Tutorial_C: 数据类型](doc.zhewana.cn)
+* 2023-01-24 07:49:41 - [Tutorial_C: 概念术语](doc.zhewana.cn)
+* 2022-12-31 09:24:56 - [Tutorial_C: 快速上手](doc.zhewana.cn)
+* 2022-12-27 07:34:53 - [Tutorial_C: 前言、背景](doc.zhewana.cn)
