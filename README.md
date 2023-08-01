@@ -8,3 +8,9 @@
 * 博客地址：zhewana.cn，欢迎来玩！
 
 ![ZheWana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZheWana&show_icons=true&theme=dark)
+
+最近在干嘛：
+|1|
+|1|
+|1|
+
