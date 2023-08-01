@@ -1,4 +1,4 @@
-name: build-my-book
+name: Sync profile according to Blog and BlogBook repo 
 on: 
   push:
   schedule:
