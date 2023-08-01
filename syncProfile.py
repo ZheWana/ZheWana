@@ -23,10 +23,8 @@ with open("./README.md", "w") as f:
     
     f.write("***\r\n📕Book新章节: \r\n")
 
-for repo in g.get_user().get_repos():
-    print(repo.name)
-    if repo.name == "BlogBook":
-        for commit in repo.get_commits():
-            if commit != commit.split("chap: ")[0]:
-                with open("./README.md", "a") as f:
-                    f.write("* [" + commit.split("chap: ")[1] + "](doc.zhewana.cn)\r\n")
+repo = g.get_repo("ZheWana/BlogBook")
+for commit in repo.get_commits():
+    if commit.commit.message != commit.commit.message.split("chap: ")[0]:
+        with open("./README.md", "a") as f:
+            f.write("* " + commit.commit.committer.data + " - [" + commit.commit.message.split("chap: ")[1] + "](doc.zhewana.cn)\r\n")
