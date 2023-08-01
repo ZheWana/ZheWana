@@ -1,7 +1,8 @@
 import feedparser              
 import sys
+import importlib
 
-reload(sys) 
+importlib.reload(sys)
 sys.setdefaultencoding('utf8')
 
 res = feedparser.parse('https://zhewana.cn/?feed=atom')
