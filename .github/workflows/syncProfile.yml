@@ -29,7 +29,7 @@ jobs:
         
       - name: Sync Blog content to Github Profile
         run: |
-          python syncProfile.py
+          python syncProfile.py ${TOKEN}
 
       - name: Push all files to master branch
         run: |
