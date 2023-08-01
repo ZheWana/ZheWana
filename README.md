@@ -24,9 +24,9 @@
 * 2023-01-24 - [Small Talk: #撰写 今天更新C语言学习手册的概念术语章节，写完一大段后刚点完保存电脑就蓝屏了。...](https://zhewana.cn/?note=524)
 ***
 📕Book新章节: 
-* 2023-07-31 - [GitCookbook: 前言、工作区、暂存区与版本库](doc.zhewana.cn)
-* 2023-07-28 - [GitCookbook: 前言](doc.zhewana.cn)
-* 2023-04-24 - [Tutorial_C: 数据类型](doc.zhewana.cn)
-* 2023-01-24 - [Tutorial_C: 概念术语](doc.zhewana.cn)
-* 2022-12-31 - [Tutorial_C: 快速上手](doc.zhewana.cn)
-* 2022-12-27 - [Tutorial_C: 前言、背景](doc.zhewana.cn)
+* 2023-07-31 - [GitCookbook: 前言、工作区、暂存区与版本库](https://doc.zhewana.cn)
+* 2023-07-28 - [GitCookbook: 前言](https://doc.zhewana.cn)
+* 2023-04-24 - [Tutorial_C: 数据类型](https://doc.zhewana.cn)
+* 2023-01-24 - [Tutorial_C: 概念术语](https://doc.zhewana.cn)
+* 2022-12-31 - [Tutorial_C: 快速上手](https://doc.zhewana.cn)
+* 2022-12-27 - [Tutorial_C: 前言、背景](https://doc.zhewana.cn)
