@@ -9,7 +9,6 @@
 
 ![ZheWana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZheWana&show_icons=true&theme=dark)
 
-我最近在干嘛：
 <!-- Python Anchor -->
 ***
 🎃Blog新鲜事: 
