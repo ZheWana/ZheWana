@@ -18,7 +18,7 @@ with open("./README.md", "w") as f:
 
     f.write("🎃Blog新鲜事: \r\n")
     for i,entry in enumerate(res.entries):
-        title = entry.title if entry.title != "" else "Small Talk: " + (str)(entry.content[0-8]) + "..."
+        title = entry.title if entry.title != "" else "Small Talk: " + (str)(entry.content)[0-8] + "..."
         f.write("* " + entry.updated.split('T')[0] + " - [" + title + "]" + "(" + entry.link + ")" + "\r\n")
     
     f.write("***\r\n📕Book新章节: \r\n")
