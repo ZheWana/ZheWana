@@ -1,9 +1,4 @@
-import feedparser              
-import sys
-import importlib
-
-importlib.reload(sys)
-sys.setdefaultencoding('utf8')
+import feedparser
 
 res = feedparser.parse('https://zhewana.cn/?feed=atom')
 anchor = "<!-- Python Anchor -->"
