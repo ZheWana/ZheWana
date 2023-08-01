@@ -25,6 +25,7 @@ jobs:
       - name: Install requairments
         run: |
           python -m pip install feedparser
+          python -m pip install pygithub
         
       - name: Sync Blog content to Github Profile
         run: |
