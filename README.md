@@ -11,16 +11,15 @@
 
 我最近在干嘛：
 <!-- Python Anchor -->
-
-| in Blog                                                                                             |
-| --------------------------------------------------------------------------------------------------- |
-| 2023-07-30:[SmallTalk](https://zhewana.cn/?note=573)                                                   |
-| 2023-07-22:[工训赛软件工程分析&#8212;-一份送给刚陷入自控软件泥潭者的小礼物](https://zhewana.cn/?p=562) |
-| 2023-05-10:[SmallTalk](https://zhewana.cn/?note=558)                                                   |
-| 2023-04-17:[SmallTalk](https://zhewana.cn/?note=538)                                                   |
-| 2023-04-07:[SmallTalk](https://zhewana.cn/?note=535)                                                   |
-| 2023-04-06:[SmallTalk](https://zhewana.cn/?note=534)                                                   |
-| 2023-04-01:[SmallTalk](https://zhewana.cn/?note=532)                                                   |
-| 2023-04-19:[Summary &#124; 找实习、工训赛、项目、技术学习](https://zhewana.cn/?p=530)                  |
-| 2023-02-20:[SmallTalk](https://zhewana.cn/?note=527)                                                   |
-| 2023-01-24:[SmallTalk](https://zhewana.cn/?note=524)                                                   |
+|in Blog|
+| --- |
+| 2023-07-30: [SmallTalk](https://zhewana.cn/?note=573) |
+| 2023-07-22: [工训赛软件工程分析&#8212;-一份送给刚陷入自控软件泥潭者的小礼物](https://zhewana.cn/?p=562) |
+| 2023-05-10: [SmallTalk](https://zhewana.cn/?note=558) |
+| 2023-04-17: [SmallTalk](https://zhewana.cn/?note=538) |
+| 2023-04-07: [SmallTalk](https://zhewana.cn/?note=535) |
+| 2023-04-06: [SmallTalk](https://zhewana.cn/?note=534) |
+| 2023-04-01: [SmallTalk](https://zhewana.cn/?note=532) |
+| 2023-04-19: [Summary &#124; 找实习、工训赛、项目、技术学习](https://zhewana.cn/?p=530) |
+| 2023-02-20: [SmallTalk](https://zhewana.cn/?note=527) |
+| 2023-01-24: [SmallTalk](https://zhewana.cn/?note=524) |
