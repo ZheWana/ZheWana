@@ -25,4 +25,4 @@ for repo in g.get_user().get_repos():
     print(repo.name)
     if repo.name == "BlogBook":
         for commit in repo.get_commits():
-            print("    " + commit.message)
+            print("    " + commit.commit.message)
