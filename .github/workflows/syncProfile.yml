@@ -35,8 +35,9 @@ jobs:
           git config --global user.email "${MYEMAIL}"
           git config --global user.name "${MYNAME}-bot"
           git remote add ${REPO_NAME} "https://${TOKEN}@${REF}"
+          git pull
           git add .
-          git commit -m "ZheWana-bot: Sync Github profile."
+          git commit -m "ZheWana-bot: Sync Github profile." || exit 0
           git push --force ${REPO_NAME}
 
 
