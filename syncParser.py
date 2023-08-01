@@ -3,7 +3,7 @@ import feedparser
 res = feedparser.parse('https://zhewana.cn/?feed=atom')
 anchor = "<!-- Python Anchor -->"
 
-with open("./README.md") as f:
+with open("./README.md", "rw") as f:
     txt = f.read().split(anchor)[0] + anchor
     f.seek(0)
     f.write(txt)
