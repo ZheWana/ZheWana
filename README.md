@@ -1,3 +1,8 @@
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zhewana&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zhewana&show_icons=true">
+</picture>
+
 * 🎓在读大学生一枚
 * 👨‍💻技术凑活
 * 🧃超级喜欢冰红茶和雪碧
@@ -6,8 +11,6 @@
 * 👨‍🔧梦想成为软硬兼修的全栈工程师，并正在为之努力
   ……吧？
 * 👋博客地址：zhewana.cn，欢迎来玩！
-
-![ZheWana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZheWana&show_icons=true&theme=dark)
 
 <!-- Python Anchor -->
 ***
