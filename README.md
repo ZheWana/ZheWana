@@ -15,6 +15,16 @@
 <!-- Python Anchor -->
 ***
 🎃Blog新鲜事: 
+* 2023-09-20 - [Small Talk: #日常 华子三面被要了博客地址，...](https://zhewana.cn/?note=583)
+* 2023-07-30 - [Small Talk: #日常 不知不觉在海康摸过一个月...](https://zhewana.cn/?note=573)
+* 2023-07-22 - [工训赛软件工程分析&#8212;-一份送给刚陷入自控软件泥潭者的小礼物](https://zhewana.cn/?p=562)
+* 2023-05-10 - [Small Talk: #日常 之前也在博文里面写过了，...](https://zhewana.cn/?note=558)
+* 2023-04-17 - [Small Talk: #吐槽 虽然才刚刚四月，但是我已...](https://zhewana.cn/?note=538)
+* 2023-04-07 - [Small Talk: #bug小记 好耶，是新bug！...](https://zhewana.cn/?note=535)
+* 2023-04-06 - [Small Talk: #吐槽 什么代码生成奇观，这He...](https://zhewana.cn/?note=534)
+* 2023-04-01 - [Small Talk: #撰写 对了，很久没写C语言学习...](https://zhewana.cn/?note=532)
+* 2023-04-19 - [Summary &#124; 找实习、工训赛、项目、技术学习](https://zhewana.cn/?p=530)
+* 2023-02-20 - [Small Talk: #吐槽 学期初进入期末周👏👏👏...](https://zhewana.cn/?note=527)
 ***
 📕Book新章节: 
 * 2023-08-01 - [GitCookbook: 分支与差异](https://doc.zhewana.cn)
